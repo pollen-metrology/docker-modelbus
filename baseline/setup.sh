@@ -10,7 +10,7 @@ apt-get --no-install-recommends install -q -y \
     openjdk-8-jre-headless \
     supervisor \
     unzip \
-    curl \
+    curl
 
 rm -rf /var/lib/apt/lists/*
 
