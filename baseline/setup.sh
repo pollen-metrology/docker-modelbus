@@ -10,10 +10,7 @@ apt-get --no-install-recommends install -q -y \
     openjdk-8-jre-headless \
     supervisor \
     unzip \
-    subversion \
     curl \
-    vim \
-    openssh-server
 
 rm -rf /var/lib/apt/lists/*
 
